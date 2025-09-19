@@ -1,6 +1,6 @@
 I'm Jeffrey Thomas .  
 I love building scalable web applications using **MongoDB, Express, React, and Node.js**.  
-
+i also love solving DSA problems 
 ## 🛠 Tech Stack
 
 <p align="center">
