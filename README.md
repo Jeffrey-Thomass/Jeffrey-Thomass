@@ -62,10 +62,10 @@ i also love solving DSA problems
 
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jeffrey-thomas-49000826b/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jeffrey-thomas-49000826b/)  
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
 - 📫 **Email:** jeffreythomas10566x@gmail.com  
-
+- 🧩 [LeetCode](https://leetcode.com/u/JeffreyThomas/)
 
 
 
