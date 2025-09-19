@@ -15,8 +15,6 @@ I love building scalable web applications using **MongoDB, Express, React, and N
   <!-- MongoDB -->
   <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" style="border-radius:15px; margin:10px; padding:10px; background:#f5f5f5; box-shadow:0 2px 6px rgba(0,0,0,0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   <!-- Mongoose -->
-  <img src="https://skillicons.dev/icons?i=mongodb" width="70" height="70" alt="Mongoose" style="border-radius:15px; margin:10px; padding:10px; background:#e8f5e9; box-shadow:0 2px 6px rgba(0,0,0,0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  <!-- Redux -->
   <img src="https://skillicons.dev/icons?i=redux" width="70" height="70" style="border-radius:15px; margin:10px; padding:10px; background:#f5f5f5; box-shadow:0 2px 6px rgba(0,0,0,0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   <!-- Redis -->
   <img src="https://skillicons.dev/icons?i=redis" width="70" height="70" style="border-radius:15px; margin:10px; padding:10px; background:#f5f5f5; box-shadow:0 2px 6px rgba(0,0,0,0.2); transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
