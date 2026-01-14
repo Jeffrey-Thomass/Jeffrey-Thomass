@@ -1,35 +1,35 @@
-# 👋 Hi, I'm Jeffrey Thomas
+# Hi, I'm Jeffrey Thomas 👋
 
-I'm a **Full-Stack Web Developer** who enjoys building scalable web applications using the **MERN stack**.  
-I also actively practice **Data Structures & Algorithms** to write efficient and clean code.
+I’m a **Full-Stack Web Developer** focused on building scalable web applications using the **MERN stack**.  
+I also enjoy solving **Data Structures & Algorithms** problems to write efficient and clean code.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- Java • JavaScript • TypeScript • Python
+**Languages**
+- Java, JavaScript, TypeScript, Python
 
-### Frontend
-- React.js • Next.js • Redux • Tailwind CSS
+**Frontend**
+- React.js, Next.js, Redux, Tailwind CSS
 
-### Backend
-- Node.js • Express.js
+**Backend**
+- Node.js, Express.js
 
-### Databases & Caching
-- MongoDB • Mongoose • Redis • MySQL
+**Databases & Caching**
+- MongoDB, Mongoose, Redis, MySQL
 
-### Tools & Platforms
-- Git • GitHub • Docker • Firebase  
-- Postman • VS Code  
+**Tools & Platforms**
+- Git, GitHub, Docker, Firebase  
+- Postman, VS Code  
 - Deployment: Vercel, Render
 
 ---
 
-## 📈 GitHub Snapshot
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeffrey-Thomass&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeffrey-Thomass&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -42,4 +42,4 @@ I also actively practice **Data Structures & Algorithms** to write efficient and
 
 ---
 
-⭐ *Always learning. Always building.*
+*Always learning. Always building.*
